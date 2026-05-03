@@ -1,3 +1,5 @@
+<img width="613" height="624" alt="ddti roc" src="https://github.com/user-attachments/assets/6b8f7b04-e55f-4411-b042-e7c727272545" />
+<img width="1808" height="1024" alt="1" src="https://github.com/user-attachments/assets/56797214-fd2e-4042-8101-f12d2d3ca2bd" />
 # thyroid-nodule-segmantation
 This work presents a deep learning-based approach for automated segmentation of thyroid nodules in ultrasound images using a U-Net architecture with a ResNet34 encoder. The model was trained and evaluated on the DDTI dataset to accurately delineate nodule regions. Performance was assessed using standard segmentation metrics such as Dice coefficient and Intersection over Union (IoU), demonstrating effective and reliable segmentation results.
 ## 🧠 Methodology
